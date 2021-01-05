@@ -1,0 +1,21 @@
+.bg-yellow {
+  background-color: #eecd42 !important;
+}
+.text-yellow {
+  color: #eecd42 !important;
+}
+.link {
+  text-decoration: underline;
+}
+.fz-8 {
+  font-size: 8px !important;
+}
+.fz-10 {
+  font-size: 10px !important;
+}
+.fz-12 {
+  font-size: 12px !important;
+}
+.text-dark-green {
+  color: #026a6e !important;
+}

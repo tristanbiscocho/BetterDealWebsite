@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="20px" viewBox="0 0 25 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>7BBFF4A8-503D-4B7E-A783-43800C03617A</title>
+    <g id="Helpdesk" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Results-page" transform="translate(-120.000000, -607.000000)">
+            <g id="Group" transform="translate(120.000000, 607.000000)">
+                <g id="Icon-dd-down-dark" transform="translate(15.000000, 10.000000) rotate(-90.000000) translate(-15.000000, -10.000000) translate(5.000000, 0.000000)">
+                    <polygon id="Size-fitter" opacity="0" points="0 0 20 0 20 20 0 20"></polygon>
+                    <polygon id="Path-2" fill="#ffffff" fill-rule="nonzero" points="14.7735503 7 15.5 7.70002946 10 13 4.5 7.70002946 5.22644971 7 9.99897264 11.6000468"></polygon>
+                </g>
+                <line x1="17" y1="10" x2="0" y2="10" id="Path-3" stroke="#ffffff"></line>
+            </g>
+        </g>
+    </g>
+</svg>
